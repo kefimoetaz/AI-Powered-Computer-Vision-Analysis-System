@@ -1,0 +1,18 @@
+{
+  "people_count": 6,
+  "vehicle_count": 2,
+  "traffic_lights": {
+    "total": 1,
+    "red": 1,
+    "green": 0,
+    "yellow": 0
+  },
+  "confidence_scores": {
+    "people": 0.7676608165105184,
+    "vehicles": 0.8106475174427032,
+    "traffic_lights": 0.5404648780822754
+  },
+  "processing_time": 0.445147,
+  "image_path": "C:/Users/kefii/OneDrive/Desktop/Portfilio/FULL STACK WEB/Nouveau dossier (2)/calgary-people-2-street-rob-moses-photography.jpg",
+  "timestamp": "2025-08-16T10:24:54.182860"
+}
