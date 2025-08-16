@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [kefiimoetaz](kefiimoetaz@gmail.com)
+**Kefi Moetaz** - [kefiimoetaz@gmail.com](kefiimoetaz@gmail.com)
 
 Project Link: [https://github.com/yourusername/ai-vision-system](https://github.com/kefimoetaz/ai-vision-system)
 
@@ -306,3 +306,4 @@ Project Link: [https://github.com/yourusername/ai-vision-system](https://github.
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-vision-system.svg?style=social&label=Star)](https://github.com/yourusername/ai-vision-system)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-vision-system.svg?style=social&label=Fork)](https://github.com/yourusername/ai-vision-system/fork)
+
